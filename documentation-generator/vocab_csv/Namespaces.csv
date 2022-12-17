@@ -1,4 +1,4 @@
-"preffix","namespace","comments","date","status-type","Comments","contributor","resolution"
+"prefix","namespace","comments","date","status-type","Comments","contributor","resolution"
 "dpv","https://w3id.org/dpv#","DPV Specification","2022-02-09","approved","","","https://www.w3.org/2022/02/09-dpvcg-minutes.html"
 "dpv-nace","https://w3id.org/dpv/dpv-nace#","NACE vocabulary in RDFS","2022-02-09","approved","","","https://www.w3.org/2022/02/09-dpvcg-minutes.html"
 "dpv-gdpr","https://w3id.org/dpv/dpv-gdpr#","GDPR Extension for DPV","2022-02-09","approved","","","https://www.w3.org/2022/02/09-dpvcg-minutes.html"
